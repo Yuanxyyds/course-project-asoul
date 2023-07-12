@@ -1,4 +1,4 @@
-# course-project-asoul
+# UofT FoodTruck Android - Group Asoul
 course-project-asoul created by GitHub Classroom
   \
   \
